@@ -1,0 +1,5 @@
+apply from: '../RLibrary/lib.gradle'
+
+dependencies {
+    api 'org.jsoup:jsoup:1.11.2'
+}
